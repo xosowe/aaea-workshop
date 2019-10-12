@@ -3,8 +3,8 @@ title: AAEA Git + GitHub Workshop
 collections:
   topics:
     output: true
-    permalink: :name
-
+    permalink: aaea-workshop/:collection/:name
+    
 defaults:
   - scope:
       path: ""
