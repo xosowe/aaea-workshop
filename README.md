@@ -8,11 +8,12 @@
 
 Fork this repository and create a new file in the ```_topics``` folder.
 
-Add the following text to the top of the file, replacing the title, author, and headline with your own content:
+Add the following metadata to the top of your file, replacing the title, author, permalink, and headline with your own content:
 
 ```
 ---
 layout: topics
+
 title: Cats
 author: Nina Kin
 permalink: cats
