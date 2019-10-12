@@ -1,5 +1,7 @@
 ---
+
 layout: default
+
 ---
 
 # {{ site.title }}
