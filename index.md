@@ -3,7 +3,7 @@ layout: default
 ---
 
 # {{ site.title }}
-<ul>
+<ul class="main-list">
 
 {% for topic in site.topics %}
     <li>
