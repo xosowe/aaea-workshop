@@ -2,13 +2,6 @@ title: AAEA Git + GitHub Workshop
 include: ['_pages']
 
 collections:
-  topics:
+  pages:
     output: true
-    permalink: aaea-workshop/:collection/:name
-    
-defaults:
-  - scope:
-      path: ""
-      type: topics
-    values:
-      layout: topics
+    permalink: /:path
