@@ -6,9 +6,9 @@ layout: default
 <ul class="main-list">
 {% for page in site.pages %}
     <li>
-        <h2>{{ page.title }}</h2> - {{ page.permalink }}
+        <h2>{{ page.title }}</h2>
         <p>By {{ page.author }}</p>
-    {{ page.headline }} - <a href="/{{ page.permalink }}">Read more...</a>
+    {{ page.headline }} - <a href="aaea-workshop{{ page.permalink }}">Read more...</a>
     </li>
 {% endfor %}
 </ul>
