@@ -13,9 +13,10 @@ Add the following text to the top of the file, replacing the title, author, and 
 ```
 ---
 layout: topics
-title: Knitting
+title: Cats
 author: Nina Kin
-headline: Knitting is awesome
+permalink: cats
+headline: My cats are silly
 ---
 ```
 
