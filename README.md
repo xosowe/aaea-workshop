@@ -2,7 +2,7 @@
 
 ## Presentation
 
-[Slide Deck](https://docs.google.com/presentation/d/1ODPhd2hiBR3SWcnoH0lFVTau-tMiszGvqcQQ1WEyB7c/edit?usp=sharing)
+[Slide Deck](https://docs.google.com/presentation/d/1ODPhd2hiBR3SWcnoH0lFVTau-tMiszGvqcQQ1WEyB7c/edit?usp=sharing) - follow along with the presentation with these slides!
 
 ## Instructions to Contribute
 
