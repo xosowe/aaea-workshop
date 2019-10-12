@@ -2,6 +2,7 @@
 layout: topics
 title: Knitting
 author: Nina Kin
+permalink: /knitting
 headline: Knitting is awesome
 ---
 
