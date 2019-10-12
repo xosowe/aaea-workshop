@@ -22,3 +22,5 @@ headline: My cats are silly
 ```
 
 Continue writing more in the rest of the file.
+
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
