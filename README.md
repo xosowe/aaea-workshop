@@ -19,4 +19,4 @@ headline: Knitting is awesome
 ---
 ```
 
-Continue in the rest of the file with your content.
+Continue writing more in the rest of the file.
