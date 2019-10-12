@@ -8,7 +8,7 @@ layout: default
     <li>
         <h2>{{ page.title }}</h2>
         <p>By {{ page.author }}</p>
-    {{ page.headline }} - <a href="aaea-workshop{{ page.permalink }}">Read more...</a>
+    {{ page.headline }} - <a href="{{ page.permalink }}">Read more...</a>
     </li>
 {% endfor %}
 </ul>
