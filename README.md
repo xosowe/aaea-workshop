@@ -1,4 +1,4 @@
-# git-github-workshop
+# AAEA Git + GitHub Workshop
 
 ## Presentation
 
