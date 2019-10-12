@@ -6,7 +6,7 @@
 
 ## Instructions to Contribute
 
-Fork this repository and create a new file in the ```_topics``` folder.
+Fork this repository and create a new file in the ```_pages``` folder.
 
 Add the following metadata to the top of your file, replacing the title, author, permalink, and headline with your own content:
 
