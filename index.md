@@ -4,7 +4,7 @@ layout: default
 
 # {{ site.title }}
 
-<ul>
+<ul class="main-list">
   {% for topic in site.topics %}
     <li>
       <a href="{{ topic.url }}">{{ topic.title }}</a> - {{ topic.headline }}
