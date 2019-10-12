@@ -5,11 +5,11 @@ layout: default
 # {{ site.title }}
 <ul class="main-list">
 
-{% for topic in site.topics %}
+{% for page in site.pages %}
     <li>
-        <h2>{{ topic.title }}</h2>
-        <p>By {{ topic.author }}</p>
-    {{ topic.headline }} - <a href="{{ topic.url }}">Read more...</a>
+        <h2>{{ page.title }}</h2>
+        <p>By {{ page.author }}</p>
+    {{ page.headline }} - <a href="{{ page.url }}">Read more...</a>
     </li>
 {% endfor %}
 
