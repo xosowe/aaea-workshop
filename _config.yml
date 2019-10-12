@@ -1,0 +1,13 @@
+title: AAEA Git + GitHub Workshop
+
+collections:
+  topics:
+    output: true
+    permalink: aaea-workshop/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topics

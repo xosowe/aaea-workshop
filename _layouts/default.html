@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            {% if page.title %}
+                {{ page.title }}
+            {% else %}
+                Git + GitHub Workshop
+            {% endif %}
+        </title>
+    </head>
+    <body>
+        {{ content }}
+    </body>
+</html>
